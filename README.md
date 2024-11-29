@@ -1,4 +1,4 @@
-# laboratory3_exercises
+# Laboratory 3 Exercises
 This repository is for DSA Individual Laboratory 3 <br>
 This contains 3 exercises <br>
 Details of the laboratory exercises is inside the jupyter notebook <br>
